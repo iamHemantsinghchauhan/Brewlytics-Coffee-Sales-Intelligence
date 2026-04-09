@@ -99,6 +99,6 @@ Evening sales drop → potential area for growth
 
 ## 👤 About Me
 Hemant
-Aspiring Data Analyst  
+
 
 “Turning data into insights — and insights into impact.”
